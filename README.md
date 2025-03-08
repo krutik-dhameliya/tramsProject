@@ -1,4 +1,5 @@
 # Tram Search Application
+![Capture](https://github.com/user-attachments/assets/635a6d81-d2b5-4442-a9c2-12f626de02a3)
 
 ## Overview
 This is an Angular-based Tram Search application that allows users to find tram and bus departures between selected stations. The application provides a sleek UI using Angular Material, includes error handling.
